@@ -25,24 +25,19 @@
 
 ## Screenshots
 
-### Splash Screen   --      SignInScreen
+### Splash Screen      --      SignInScreen     --     ListScreen
 ![Splash Screen](https://github.com/Saurav321134/Sync_the_body/blob/36d6f60fa8fc6375f855e8d5c8a560940219ea56/splash_ss5.png)
 ![SignInScreen](https://github.com/Saurav321134/Sync_the_body/blob/60acbd73de64f6d48460a8240bc9f5da56d2d407/SignInScreen_ss5.png)
 ![ChartScreen](https://github.com/Saurav321134/Sync_the_body/blob/48dd62a1f0a6f7de0239e59e17ba297f55a8c3ae/Chart_ss5.png)
+### Add/Delete/Update Screen -- DetailScreen -- InputScreen
 ![Add/Update](https://github.com/Saurav321134/Sync_the_body/blob/4838e23b2f8815759bf4c7745687268f74072262/Add_Screen5.png)
 ![DetailScreen](https://github.com/Saurav321134/Sync_the_body/blob/3c1eedaf8f7fdb98296af80b1148edf0fc5840e9/Details_ss5.png)
 ![InputScreem](https://github.com/Saurav321134/Sync_the_body/blob/55a3246a5afd60e358d8505e66a7e2000814636b/Input_ss5.png)
+### DatePickerScreen
+![DatePicker](https://github.com/Saurav321134/Sync_the_body/blob/55a3246a5afd60e358d8505e66a7e2000814636b/Date_Picker_ss5.png)
 
 
-### Login Screen
 
-
-
-Example:
-```md
-![Home Screen](screenshots/home_screen.png)
-![Login Screen](screenshots/login_screen.png)
-```
 
 ## Getting Started
 ### Prerequisites
@@ -52,7 +47,7 @@ Example:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/BodySync.git
+   git clone https://github.com/Saurav321134/Sync_the_body.git
    ```
 2. Open the project in **Android Studio**.
 3. Sync Gradle files and build the project.
@@ -68,8 +63,7 @@ Example:
 ## Contributing
 We welcome contributions! Feel free to submit pull requests or report issues.
 
-## License
-MIT License - See [LICENSE](LICENSE) for details.
+
 
 ---
 🚀 **BodySync - Align. Train. Transform.**
