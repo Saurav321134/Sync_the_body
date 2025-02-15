@@ -29,7 +29,7 @@
 ![Home Screen]([screenshots/splash_ss.png](https://github.com/Saurav321134/Sync_the_body/blob/2574671475fb81a4ea2a6763c729b018ee0e74f3/splash_ss.png))
 
 ### Login Screen
-![Login Screen](screenshots/SignInScreen_ss.png)
+![Login Screen](https://github.com/Saurav321134/Sync_the_body/blob/c6152ef70fde52af150526c576685c3877fece52/Add_Screen2.png)
 
 
 Example:
