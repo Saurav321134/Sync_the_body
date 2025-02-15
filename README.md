@@ -25,9 +25,9 @@
 
 ## Screenshots
 
-### Splash Screen
+### Splash Screen   --      SignInScreen
 ![Splash Screen](https://github.com/Saurav321134/Sync_the_body/blob/36d6f60fa8fc6375f855e8d5c8a560940219ea56/splash_ss5.png)
-![Login Screen](https://github.com/Saurav321134/Sync_the_body/blob/d9af61c461071ea6a4ff8ba84bef8cf889be05d9/Add_Screen5.png)
+![SignInScreen](https://github.com/Saurav321134/Sync_the_body/blob/60acbd73de64f6d48460a8240bc9f5da56d2d407/SignInScreen_ss5.png)
 
 ### Login Screen
 
