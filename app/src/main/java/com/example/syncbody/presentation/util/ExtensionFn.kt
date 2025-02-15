@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.util
+package com.example.syncbody.presentation.util
 
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.SelectableDates

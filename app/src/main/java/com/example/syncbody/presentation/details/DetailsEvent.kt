@@ -1,8 +1,8 @@
-package com.example.bodysynnc.presentation.details
+package com.example.syncbody.presentation.details
 
-import com.example.bodysynnc.domain.model.BodyPartValue
-import com.example.bodysynnc.domain.model.MeasuringUnit
-import com.example.bodysynnc.domain.model.TimeRange
+import com.example.syncbody.domain.model.BodyPartValue
+import com.example.syncbody.domain.model.MeasuringUnit
+import com.example.syncbody.domain.model.TimeRange
 
 sealed class DetailsEvent {
     data object DeleteBodyPart: DetailsEvent()

@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.theme
+package com.example.syncbody.presentation.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.navigation
+package com.example.syncbody.presentation.navigation
 
 
 import androidx.compose.animation.AnimatedContentTransitionScope
@@ -16,15 +16,15 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.example.bodysynnc.presentation.add_item.AddItemScreen
-import com.example.bodysynnc.presentation.add_item.AddItemViewModel
-import com.example.bodysynnc.presentation.dashboard.DashboardScreen
-import com.example.bodysynnc.presentation.dashboard.DashboardViewModel
-import com.example.bodysynnc.presentation.details.DetailsScreen
-import com.example.bodysynnc.presentation.details.DetailsViewModel
-import com.example.bodysynnc.presentation.signin.SignInScreen
-import com.example.bodysynnc.presentation.signin.SignInViewModel
-import com.example.bodysynnc.presentation.util.UiEvent
+import com.example.syncbody.presentation.add_item.AddItemScreen
+import com.example.syncbody.presentation.add_item.AddItemViewModel
+import com.example.syncbody.presentation.dashboard.DashboardScreen
+import com.example.syncbody.presentation.dashboard.DashboardViewModel
+import com.example.syncbody.presentation.details.DetailsScreen
+import com.example.syncbody.presentation.details.DetailsViewModel
+import com.example.syncbody.presentation.signin.SignInScreen
+import com.example.syncbody.presentation.signin.SignInViewModel
+import com.example.syncbody.presentation.util.UiEvent
 
 @Composable
 fun NavGraph(

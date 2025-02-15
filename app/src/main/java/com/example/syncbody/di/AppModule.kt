@@ -1,11 +1,11 @@
-package com.example.bodysynnc.di
+package com.example.syncbody.di
 
 import android.content.Context
 import androidx.credentials.CredentialManager
-import com.example.bodysynnc.data.repository.AuthRepositoryImpl
-import com.example.bodysynnc.data.repository.DatabaseRepositoryImpl
-import com.example.bodysynnc.domain.repository.AuthRepository
-import com.example.bodysynnc.domain.repository.DatabaseRepository
+import com.example.syncbody.data.repository.AuthRepositoryImpl
+import com.example.syncbody.data.repository.DatabaseRepositoryImpl
+import com.example.syncbody.domain.repository.AuthRepository
+import com.example.syncbody.domain.repository.DatabaseRepository
 import com.google.firebase.Firebase
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.auth

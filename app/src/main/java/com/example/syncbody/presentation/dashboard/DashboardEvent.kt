@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.dashboard
+package com.example.syncbody.presentation.dashboard
 
 import android.content.Context
 

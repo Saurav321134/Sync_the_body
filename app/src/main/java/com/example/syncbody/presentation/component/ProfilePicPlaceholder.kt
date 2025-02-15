@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.component
+package com.example.syncbody.presentation.component
 
 import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Box
@@ -19,12 +19,12 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
-import com.example.bodysynnc.R
+import com.example.syncbody.R
 
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
-import com.example.bodysynnc.presentation.theme.CustomBlue
-import com.example.bodysynnc.presentation.theme.CustomPink
+import com.example.syncbody.presentation.theme.CustomBlue
+import com.example.syncbody.presentation.theme.CustomPink
 
 @Composable
 fun ProfilePicPlaceholder(

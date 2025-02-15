@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation
+package com.example.syncbody.presentation
 
 import android.os.Bundle
 import android.util.Log
@@ -20,12 +20,12 @@ import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.compose.rememberNavController
-import com.example.bodysynnc.data.util.Constants.APP_LOG
-import com.example.bodysynnc.domain.model.AuthStatus
-import com.example.bodysynnc.presentation.navigation.NavGraph
-import com.example.bodysynnc.presentation.navigation.Routes
-import com.example.bodysynnc.presentation.signin.SignInViewModel
-import com.example.bodysynnc.presentation.theme.BodySyncTheme
+import com.example.syncbody.data.util.Constants.APP_LOG
+import com.example.syncbody.domain.model.AuthStatus
+import com.example.syncbody.presentation.navigation.NavGraph
+import com.example.syncbody.presentation.navigation.Routes
+import com.example.syncbody.presentation.signin.SignInViewModel
+import com.example.syncbody.presentation.theme.BodySyncTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

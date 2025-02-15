@@ -1,4 +1,4 @@
-package com.example.bodysynnc.domain.model
+package com.example.syncbody.domain.model
 
 data class BodyPart(
     val name: String,

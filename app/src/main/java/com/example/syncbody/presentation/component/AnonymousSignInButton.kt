@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.component
+package com.example.syncbody.presentation.component
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
@@ -15,7 +15,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.bodysynnc.presentation.theme.BodySyncTheme
+import com.example.syncbody.presentation.theme.BodySyncTheme
 
 @Composable
 fun AnonymousSignInButton(

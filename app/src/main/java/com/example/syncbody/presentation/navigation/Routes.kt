@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.navigation
+package com.example.syncbody.presentation.navigation
 import kotlinx.serialization.Serializable
 @Serializable
 sealed class Routes {

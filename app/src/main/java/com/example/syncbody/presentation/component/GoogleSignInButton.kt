@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.component
+package com.example.syncbody.presentation.component
 
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.size
@@ -19,8 +19,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.bodysynnc.R
-import com.example.bodysynnc.presentation.theme.BodySyncTheme
+import com.example.syncbody.R
+import com.example.syncbody.presentation.theme.BodySyncTheme
 
 @Composable
 fun GoogleSignInButton(

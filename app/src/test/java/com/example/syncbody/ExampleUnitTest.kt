@@ -1,4 +1,4 @@
-package com.example.bodysynnc
+package com.example.syncbody
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.signin
+package com.example.syncbody.presentation.signin
 
 data class SignInState(
     val isGoogleSignInButtonLoading: Boolean = false,

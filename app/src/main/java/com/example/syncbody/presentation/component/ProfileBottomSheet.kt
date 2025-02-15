@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.component
+package com.example.syncbody.presentation.component
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -16,7 +16,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.bodysynnc.domain.model.User
+import com.example.syncbody.domain.model.User
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

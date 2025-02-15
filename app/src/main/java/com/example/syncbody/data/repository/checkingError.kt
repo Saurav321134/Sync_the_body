@@ -1,3 +1,3 @@
-package com.example.bodysynnc.data.repository
+package com.example.syncbody.data.repository
 
 

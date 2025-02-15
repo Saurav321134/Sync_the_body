@@ -1,20 +1,18 @@
-package com.example.bodysynnc.presentation.details
+package com.example.syncbody.presentation.details
 
 
-import android.util.Log
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.navigation.toRoute
-import com.example.bodysynnc.data.util.Constants
-import com.example.bodysynnc.domain.model.BodyPart
-import com.example.bodysynnc.domain.model.BodyPartValue
-import com.example.bodysynnc.domain.model.TimeRange
-import com.example.bodysynnc.domain.repository.DatabaseRepository
-import com.example.bodysynnc.presentation.navigation.Routes
-import com.example.bodysynnc.presentation.util.UiEvent
-import com.example.bodysynnc.presentation.util.changeMillisToLocalDate
-import com.example.bodysynnc.presentation.util.roundToDecimal
+import com.example.syncbody.domain.model.BodyPart
+import com.example.syncbody.domain.model.BodyPartValue
+import com.example.syncbody.domain.model.TimeRange
+import com.example.syncbody.domain.repository.DatabaseRepository
+import com.example.syncbody.presentation.navigation.Routes
+import com.example.syncbody.presentation.util.UiEvent
+import com.example.syncbody.presentation.util.changeMillisToLocalDate
+import com.example.syncbody.presentation.util.roundToDecimal
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.MutableStateFlow

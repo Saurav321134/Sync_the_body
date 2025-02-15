@@ -1,6 +1,6 @@
-package com.example.bodysynnc.data.mapper
+package com.example.syncbody.data.mapper
 
-import com.example.bodysynnc.domain.model.BodyPart
+import com.example.syncbody.domain.model.BodyPart
 
 data class BodyPartDto(
     val name: String = "",

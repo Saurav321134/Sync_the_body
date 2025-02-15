@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation
+package com.example.syncbody.presentation
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

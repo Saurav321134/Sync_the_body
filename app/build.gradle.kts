@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bodysynnc"
+    namespace = "com.example.syncbody"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.bodysynnc"
+        applicationId = "com.example.syncbody"
         minSdk = 23
         targetSdk = 35
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.component
+package com.example.syncbody.presentation.component
 
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.Text

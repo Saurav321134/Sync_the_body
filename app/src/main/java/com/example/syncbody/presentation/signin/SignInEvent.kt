@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.signin
+package com.example.syncbody.presentation.signin
 
 import android.content.Context
 

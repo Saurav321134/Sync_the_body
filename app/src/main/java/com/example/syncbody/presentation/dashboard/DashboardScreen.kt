@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.dashboard
+package com.example.syncbody.presentation.dashboard
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -44,12 +44,12 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.PreviewScreenSizes
 import androidx.compose.ui.unit.dp
-import com.example.bodysynnc.domain.model.BodyPart
-import com.example.bodysynnc.presentation.component.MeasureMateDialog
-import com.example.bodysynnc.presentation.component.ProfileBottomSheet
-import com.example.bodysynnc.presentation.component.ProfilePicPlaceholder
-import com.example.bodysynnc.presentation.theme.BodySyncTheme
-import com.example.bodysynnc.presentation.util.UiEvent
+import com.example.syncbody.domain.model.BodyPart
+import com.example.syncbody.presentation.component.MeasureMateDialog
+import com.example.syncbody.presentation.component.ProfileBottomSheet
+import com.example.syncbody.presentation.component.ProfilePicPlaceholder
+import com.example.syncbody.presentation.theme.BodySyncTheme
+import com.example.syncbody.presentation.util.UiEvent
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flowOf
 import kotlinx.coroutines.launch
@@ -160,7 +160,7 @@ private fun DashboardTopBar(
     TopAppBar(
         modifier = modifier,
         windowInsets = WindowInsets(0, 0, 0, 0),
-        title = { Text(text = "MeasureMate") },
+        title = { Text(text = "BodySync") },
         actions = {
             IconButton(onClick = { onProfilePicClick() }) {
                 ProfilePicPlaceholder(

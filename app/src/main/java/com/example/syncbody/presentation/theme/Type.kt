@@ -1,10 +1,10 @@
-package com.example.bodysynnc.presentation.theme
+package com.example.syncbody.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.googlefonts.Font
 import androidx.compose.ui.text.googlefonts.GoogleFont
-import com.example.bodysynnc.R
+import com.example.syncbody.R
 
 val provider = GoogleFont.Provider(
     providerAuthority = "com.google.android.gms.fonts",

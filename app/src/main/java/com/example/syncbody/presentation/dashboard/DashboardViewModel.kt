@@ -1,11 +1,11 @@
-package com.example.bodysynnc.presentation.dashboard
+package com.example.syncbody.presentation.dashboard
 
 import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.bodysynnc.domain.repository.AuthRepository
-import com.example.bodysynnc.domain.repository.DatabaseRepository
-import com.example.bodysynnc.presentation.util.UiEvent
+import com.example.syncbody.domain.repository.AuthRepository
+import com.example.syncbody.domain.repository.DatabaseRepository
+import com.example.syncbody.presentation.util.UiEvent
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.MutableStateFlow

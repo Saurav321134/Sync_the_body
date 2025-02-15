@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.util
+package com.example.syncbody.presentation.util
 
 sealed class UiEvent {
     data class Snackbar(

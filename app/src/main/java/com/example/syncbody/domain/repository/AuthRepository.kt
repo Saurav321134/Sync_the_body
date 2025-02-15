@@ -1,7 +1,7 @@
-package com.example.bodysynnc.domain.repository
+package com.example.syncbody.domain.repository
 
 import android.content.Context
-import com.example.bodysynnc.domain.model.AuthStatus
+import com.example.syncbody.domain.model.AuthStatus
 import kotlinx.coroutines.flow.Flow
 
 interface AuthRepository {

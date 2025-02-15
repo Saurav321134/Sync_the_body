@@ -1,4 +1,4 @@
-package com.example.bodysynnc.domain.model
+package com.example.syncbody.domain.model
 
 enum class MeasuringUnit(
     val code: String,

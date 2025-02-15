@@ -1,6 +1,6 @@
-package com.example.bodysynnc.data.mapper
+package com.example.syncbody.data.mapper
 
-import com.example.bodysynnc.domain.model.BodyPartValue
+import com.example.syncbody.domain.model.BodyPartValue
 import com.google.firebase.Timestamp
 import java.time.Instant
 import java.time.LocalDate

@@ -1,8 +1,8 @@
-package com.example.bodysynnc.domain.repository
+package com.example.syncbody.domain.repository
 
-import com.example.bodysynnc.domain.model.BodyPart
-import com.example.bodysynnc.domain.model.BodyPartValue
-import com.example.bodysynnc.domain.model.User
+import com.example.syncbody.domain.model.BodyPart
+import com.example.syncbody.domain.model.BodyPartValue
+import com.example.syncbody.domain.model.User
 import kotlinx.coroutines.flow.Flow
 
 interface DatabaseRepository {

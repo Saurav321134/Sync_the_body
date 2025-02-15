@@ -1,4 +1,4 @@
-package com.example.bodysynnc.data.util
+package com.example.syncbody.data.util
 
 object Constants {
 

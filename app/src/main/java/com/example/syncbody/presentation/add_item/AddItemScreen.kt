@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.add_item
+package com.example.syncbody.presentation.add_item
 
 
 import androidx.compose.foundation.clickable
@@ -36,8 +36,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.PreviewScreenSizes
 import androidx.compose.ui.unit.dp
-import com.example.bodysynnc.presentation.component.MeasureMateDialog
-import com.example.bodysynnc.presentation.util.UiEvent
+import com.example.syncbody.presentation.component.MeasureMateDialog
+import com.example.syncbody.presentation.util.UiEvent
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 

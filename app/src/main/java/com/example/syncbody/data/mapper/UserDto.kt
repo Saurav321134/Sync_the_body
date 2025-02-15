@@ -1,6 +1,6 @@
-package com.example.bodysynnc.data.mapper
+package com.example.syncbody.data.mapper
 
-import com.example.bodysynnc.domain.model.User
+import com.example.syncbody.domain.model.User
 
 data class UserDto(
     val name: String = "Anonymous",

@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.theme
+package com.example.syncbody.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

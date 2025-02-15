@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.component
+package com.example.syncbody.presentation.component
 
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.tween
@@ -22,9 +22,9 @@ import androidx.compose.ui.text.drawText
 import androidx.compose.ui.text.rememberTextMeasurer
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.bodysynnc.domain.model.BodyPartValue
-import com.example.bodysynnc.presentation.util.changeLocalDateToGraphDate
-import com.example.bodysynnc.presentation.util.roundToDecimal
+import com.example.syncbody.domain.model.BodyPartValue
+import com.example.syncbody.presentation.util.changeLocalDateToGraphDate
+import com.example.syncbody.presentation.util.roundToDecimal
 import java.time.LocalDate
 
 @Composable

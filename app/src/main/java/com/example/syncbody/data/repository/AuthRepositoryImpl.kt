@@ -1,11 +1,11 @@
-package com.example.bodysynnc.data.repository
+package com.example.syncbody.data.repository
 
 import android.content.Context
 import androidx.credentials.CredentialManager
 import androidx.credentials.GetCredentialRequest
-import com.example.bodysynnc.data.util.Constants
-import com.example.bodysynnc.domain.model.AuthStatus
-import com.example.bodysynnc.domain.repository.AuthRepository
+import com.example.syncbody.data.util.Constants
+import com.example.syncbody.domain.model.AuthStatus
+import com.example.syncbody.domain.repository.AuthRepository
 import com.google.android.libraries.identity.googleid.GetSignInWithGoogleOption
 import com.google.android.libraries.identity.googleid.GoogleIdTokenCredential
 import com.google.firebase.auth.AuthCredential

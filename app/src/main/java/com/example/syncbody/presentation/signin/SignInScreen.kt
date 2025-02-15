@@ -1,4 +1,4 @@
-package com.example.bodysynnc.presentation.signin
+package com.example.syncbody.presentation.signin
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
@@ -24,11 +24,11 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.tooling.preview.PreviewScreenSizes
 import androidx.compose.ui.unit.dp
-import com.example.bodysynnc.presentation.theme.BodySyncTheme
-import com.example.bodysynnc.R
-import com.example.bodysynnc.presentation.component.AnonymousSignInButton
-import com.example.bodysynnc.presentation.component.GoogleSignInButton
-import com.example.bodysynnc.presentation.component.MeasureMateDialog
+import com.example.syncbody.R
+import com.example.syncbody.presentation.component.AnonymousSignInButton
+import com.example.syncbody.presentation.component.GoogleSignInButton
+import com.example.syncbody.presentation.component.MeasureMateDialog
+import com.example.syncbody.presentation.theme.BodySyncTheme
 
 @Composable
 fun SignInScreen(
@@ -70,12 +70,12 @@ fun SignInScreen(
                 )
                 Spacer(modifier = Modifier.height(20.dp))
                 Text(
-                    text = "MeasureMate",
+                    text = "BodySync",
                     style = MaterialTheme.typography.headlineLarge
                 )
                 Text(
-                    text = "Measure progress, not perfection",
-                    style = MaterialTheme.typography.bodySmall.copy(fontStyle = FontStyle.Italic)
+                    text = "Align. Train. Transform",
+                    style = MaterialTheme.typography.bodyMedium.copy(fontStyle = FontStyle.Italic)
                 )
                 Spacer(modifier = Modifier.fillMaxHeight(fraction = 0.4f))
                 GoogleSignInButton(

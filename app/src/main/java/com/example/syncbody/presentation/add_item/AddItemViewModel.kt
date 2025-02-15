@@ -1,11 +1,11 @@
-package com.example.bodysynnc.presentation.add_item
+package com.example.syncbody.presentation.add_item
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.bodysynnc.domain.model.BodyPart
-import com.example.bodysynnc.domain.model.MeasuringUnit
-import com.example.bodysynnc.domain.repository.DatabaseRepository
-import com.example.bodysynnc.presentation.util.UiEvent
+import com.example.syncbody.domain.model.BodyPart
+import com.example.syncbody.domain.model.MeasuringUnit
+import com.example.syncbody.domain.repository.DatabaseRepository
+import com.example.syncbody.presentation.util.UiEvent
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.MutableStateFlow
