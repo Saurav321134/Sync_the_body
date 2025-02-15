@@ -31,6 +31,7 @@
 ![ChartScreen](https://github.com/Saurav321134/Sync_the_body/blob/48dd62a1f0a6f7de0239e59e17ba297f55a8c3ae/Chart_ss5.png)
 ![Add/Update](https://github.com/Saurav321134/Sync_the_body/blob/4838e23b2f8815759bf4c7745687268f74072262/Add_Screen5.png)
 ![DetailScreen](https://github.com/Saurav321134/Sync_the_body/blob/3c1eedaf8f7fdb98296af80b1148edf0fc5840e9/Details_ss5.png)
+![InputScreem](https://github.com/Saurav321134/Sync_the_body/blob/55a3246a5afd60e358d8505e66a7e2000814636b/Input_ss5.png)
 
 
 ### Login Screen
