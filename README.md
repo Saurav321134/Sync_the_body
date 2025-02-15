@@ -25,11 +25,12 @@
 
 ## Screenshots
 
-### Home Screen
-![Home Screen]([screenshots/splash_ss.png](https://github.com/Saurav321134/Sync_the_body/blob/2574671475fb81a4ea2a6763c729b018ee0e74f3/splash_ss.png))
+### Splash Screen
+![Splash Screen](https://github.com/Saurav321134/Sync_the_body/blob/36d6f60fa8fc6375f855e8d5c8a560940219ea56/splash_ss5.png)
+![Login Screen](https://github.com/Saurav321134/Sync_the_body/blob/d9af61c461071ea6a4ff8ba84bef8cf889be05d9/Add_Screen5.png)
 
 ### Login Screen
-![Login Screen](https://github.com/Saurav321134/Sync_the_body/blob/d9af61c461071ea6a4ff8ba84bef8cf889be05d9/Add_Screen5.png)
+
 
 
 Example:
