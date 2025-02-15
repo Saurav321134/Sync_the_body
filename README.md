@@ -26,7 +26,7 @@
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/splash_ss.png)
+![Home Screen]([screenshots/splash_ss.png](https://github.com/Saurav321134/Sync_the_body/blob/2574671475fb81a4ea2a6763c729b018ee0e74f3/splash_ss.png))
 
 ### Login Screen
 ![Login Screen](screenshots/SignInScreen_ss.png)
